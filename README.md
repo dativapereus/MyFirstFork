@@ -142,3 +142,6 @@ I am a Bioinformatics Intern at ICIPE
 A die hard Arsenal fan!
 
 
+Dativa Pereus 
+Research scientist at NIMR 
+PhD student in Bioinformatics at UONBi
